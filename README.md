@@ -40,4 +40,4 @@ Objective: Analyze sales trends, company performance, customer behavior, and reg
 
 ## Screenshots
 1. sales overview:- https://github.com/Tashusingla2003/Car-Sales-Data-Dashboard/blob/main/Screenshot%202025-07-22%20221554.png
-2. sales details:-
+2. sales details:- https://github.com/Tashusingla2003/Car-Sales-Data-Dashboard/blob/main/Screenshot%202025-07-22%20221619.png

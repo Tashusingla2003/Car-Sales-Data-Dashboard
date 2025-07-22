@@ -39,4 +39,5 @@ Objective: Analyze sales trends, company performance, customer behavior, and reg
 6.Exploratory Data Analysis (EDA)
 
 ## Screenshots
-1. sales overview:-
+1. sales overview:- https://github.com/Tashusingla2003/Car-Sales-Data-Dashboard/blob/main/Screenshot%202025-07-22%20221554.png
+2. sales details:-
